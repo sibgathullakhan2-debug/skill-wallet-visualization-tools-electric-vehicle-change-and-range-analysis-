@@ -85,22 +85,6 @@ The project helps users understand:
 
 ---
 
-## ▶️ How to Run
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/sibgathullakhan2-debug/skill-wallet-visualization-tools-electric-vehicle-change-and-range-analysis-.git
-```
-
-### 2️⃣ Navigate to the website folder
-```bash
-cd EV_Website
-```
-
-### 3️⃣ Install dependencies
-```bash
-py -m pip install -r requirements.txt
-```
 
 ### 4️⃣ Run the application
 ```bash
