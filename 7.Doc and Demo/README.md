@@ -86,9 +86,3 @@ The project helps users understand:
 ---
 
 
-### 4️⃣ Run the application
-```bash
-py app.py
-```
-
-### 5️⃣ Open in your browser
